@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hello, Devs!
 
+Meu nome é Joyce, tenho 20 anos e estou me aventurando no mundo da T.I.
+
+Após iniciar meus estudos na área de Front-End, me apaixonei por programação e decidi levar mais adiante, iniciando a graduação em Sistemas para Internet!
+
+Busco oportunidades de entrar no mercado de trabalho da tecnologia.
+Você pode entrar em contato comigo através do meu LinkedIn: https://www.linkedin.com/in/joyce-teodoro/
+
+Ahh! Também sou apaixonada por bolinho de chocolate e jogos <3
 <!--
 **dodojoy/dodojoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
