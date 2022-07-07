@@ -1,6 +1,6 @@
 ### Hello, Devs!
 
-Meu nome é Joyce, tenho 20 anos e estou me aventurando no mundo da T.I.
+Meu nome é Joyce, tenho 21 anos e estou me aventurando no mundo da T.I.
 
 Após iniciar meus estudos na área de Front-End, me apaixonei por programação e decidi levar mais adiante, iniciando a graduação em Sistemas para Internet!
 
