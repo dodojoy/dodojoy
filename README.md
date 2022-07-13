@@ -2,7 +2,7 @@
 
 Meu nome é Joyce, tenho 21 anos e estou me aventurando no mundo da T.I.
 
-Após iniciar meus estudos na área de Front-End, me apaixonei por programação e decidi levar mais adiante, iniciando a graduação em Sistemas para Internet!
+Sou estudante da oitava turma do bootcamp de Front-End da Laboratória.
 
 Busco oportunidades de entrar no mercado de trabalho da tecnologia.
 
