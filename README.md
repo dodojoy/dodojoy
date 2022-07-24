@@ -2,7 +2,6 @@
 
 Meu nome é Joyce, tenho 21 anos e estou me aventurando no mundo da T.I.
 
-Sou estudante da oitava turma do bootcamp de Front-End da Laboratória.
 
 Busco oportunidades de entrar no mercado de trabalho da tecnologia.
 
