@@ -1,13 +1,13 @@
 ### Hello, Devs!
 
-Meu nome é Joyce, tenho 21 anos e estou me aventurando no mundo da T.I.
+Meu nome é Joyce, tenho 21 anos e estou no mundo da T.I. desde o início de 2022 como estudante.
 
 
 Busco oportunidades de entrar no mercado de trabalho da tecnologia.
 
 Ahh! Também sou apaixonada por bolinho de chocolate e jogos <3
 
-### Estou aprendendo
+### Linguagens
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40">
 
