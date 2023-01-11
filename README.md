@@ -5,8 +5,6 @@ Meu nome é Joyce, tenho 21 anos e estou no mundo da T.I. desde o início de 202
 
 Busco oportunidades de entrar no mercado de trabalho da tecnologia.
 
-Ahh! Também sou apaixonada por bolinho de chocolate e jogos <3
-
 ### Linguagens
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40">
