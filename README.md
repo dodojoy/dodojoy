@@ -3,7 +3,7 @@
 Meu nome é Joyce, tenho 21 anos e estou no mundo da T.I. desde o início de 2022 como estudante.
 
 
-Busco oportunidades de entrar no mercado de trabalho da tecnologia.
+Atualmente sou estagiária Front-end na <a href = "https://www.brazu.io/" target="_blank">Brazu</a>
 
 ### Linguagens
 
