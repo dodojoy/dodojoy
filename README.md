@@ -1,6 +1,6 @@
 ### Hello, Devs!
 
-Meu nome é Joyce, tenho 21 anos e estou no mundo da T.I. desde o início de 2022 como estudante.
+Meu nome é Joyce, tenho 22 anos e estou no mundo da T.I. desde o início de 2022 como estudante.
 
 
 Atualmente sou estagiária Front-end na <a href = "https://www.brazu.io/" target="_blank">Brazu</a>
