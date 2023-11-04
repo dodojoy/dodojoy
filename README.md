@@ -1,6 +1,6 @@
 ### Hello, Devs!
 
-My name is Joyce, I am 22 years old, and I've been in the IT world since the beginning of 2022 as a student.
+My name is Joyce, I am 22 years old, and I've been working as a front-end developer for 8 months.
 
 Currently, I work as a Front-end developer at <a href = "https://www.brazu.io/" target="_blank">Brazu</a>
 
