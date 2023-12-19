@@ -1,8 +1,9 @@
 ### Hello, Devs!
 
-My name is Joyce, I am 22 years old, and I've been working as a front-end developer for 8 months.
+My name is Joyce, a passionate front-end developer with experience in crafting engaging and user-friendly interfaces. 
+Throughout my professional journey, I've applied my skills to enhance web experiences. 
+Currently, I work as a Front-end Developer at <a href = "https://www.brazu.io/" target="_blank">Brazu</a>, where I continue to grow and create innovative solutions for our users.
 
-Currently, I work as a Front-end developer at <a href = "https://www.brazu.io/" target="_blank">Brazu</a>
 
 ### Technologies
 
